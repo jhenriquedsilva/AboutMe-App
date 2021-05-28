@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Henrique Silva</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Devo escolher cuidadosamente como fazer este texto, pois ele será minha apresentação para potenciais ampregadores</string>
+    <string name="whats_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
